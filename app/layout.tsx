@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "skjld labs — AI gateway",
+  title: "Relaystack — AI gateway",
   description: "One gateway for every model you ship. Routing, caching, and observability for LLM traffic.",
 };
 

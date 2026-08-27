@@ -1,4 +1,4 @@
-<p align="center"><b>skjld labs</b> · AI gateway</p>
+<p align="center"><b>Relaystack</b> · AI gateway</p>
 
 <p align="center">One gateway for every model you ship — routing, caching, and
 observability for LLM traffic across Anthropic, OpenAI, and self-hosted models.</p>
@@ -33,4 +33,4 @@ All runtime config is read from `.env`:
 
 ## License
 
-© skjld labs. All rights reserved.
+© Relaystack. All rights reserved.

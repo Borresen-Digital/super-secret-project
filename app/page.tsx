@@ -4,7 +4,7 @@ export default function Home() {
       <header className="mx-auto flex w-full max-w-5xl items-center justify-between px-6 py-6">
         <div className="flex items-center gap-2 font-mono text-sm font-semibold tracking-tight">
           <span className="inline-block h-3 w-3 rounded-sm bg-emerald-500" />
-          skjld<span className="text-zinc-400">labs</span>
+          relay<span className="text-zinc-400">stack</span>
         </div>
         <nav className="hidden gap-8 text-sm text-zinc-500 sm:flex">
           <a href="#" className="hover:text-zinc-900 dark:hover:text-zinc-100">Docs</a>
@@ -23,7 +23,7 @@ export default function Home() {
             One gateway for every model you ship.
           </h1>
           <p className="mt-6 max-w-xl text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            skjld routes, caches, and observes your LLM traffic across Anthropic,
+            Relaystack routes, caches, and observes your LLM traffic across Anthropic,
             OpenAI, and self-hosted models — behind a single key. Sub-millisecond
             failover, per-tenant budgets, full request tracing.
           </p>
@@ -58,7 +58,7 @@ export default function Home() {
       </main>
 
       <footer className="mx-auto w-full max-w-5xl px-6 py-10 text-sm text-zinc-400">
-        © {new Date().getFullYear()} skjld labs. All rights reserved.
+        © {new Date().getFullYear()} Relaystack. All rights reserved.
       </footer>
     </div>
   );
