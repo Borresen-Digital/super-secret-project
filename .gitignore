@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# honeypot operator notes (local only)
+HONEYPOT.local.md
